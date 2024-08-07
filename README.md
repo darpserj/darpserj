@@ -9,7 +9,7 @@
 <p align="center">
 <a href="https://t.me/dariuspdev"><img alt="Static Badge" src="https://img.shields.io/badge/message_me-on_telegram-blue?style=for-the-badge&logo=telegram&logoSize=48&link=https%3A%2F%2Ft.me%2Fdariuspdev"></a>
 <a href="mailto:dariuspopa.dev@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/write_me-an_email-orange?style=for-the-badge&logo=gmail&logoSize=48&link=mailto%3Adariuspopa.dev%40gmail.com"></a>
-<a href="https://dariuspopa.dev/#contact"><img alt="Static Badge" src="https://img.shields.io/badge/fill_in-my_contact_form-pink?style=for-the-badge&logo=html5&logoColor=pink&logoSize=48&link=mailto%3Adariuspopa.dev%40gmail.com"></a>
+<a href="https://dariuspopa.dev/?utm_source=Github&utm_medium=Personal+Readme&utm_content=Profile+Badge#contact"><img alt="Static Badge" src="https://img.shields.io/badge/fill_in-my_contact_form-pink?style=for-the-badge&logo=html5&logoColor=pink&logoSize=48&link=mailto%3Adariuspopa.dev%40gmail.com"></a>
 <a href="https://www.youtube.com/@DariusP.webdev"><img alt="Static Badge" src="https://img.shields.io/badge/subscribe-to_my_Youtube-red?style=for-the-badge&logo=youtube&logoSize=48&link=mailto%3Adariuspopa.dev%40gmail.com"></a>
 <a href="https://www.facebook.com/dariuspopa.dev"><img alt="Static Badge" src="https://img.shields.io/badge/like-my_Facebook_Page-deepskyblue?style=for-the-badge&logo=facebook&logoSize=48&link=mailto%3Adariuspopa.dev%40gmail.com"></a>
 
