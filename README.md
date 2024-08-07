@@ -6,8 +6,7 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Staatliches&size=24&pause=1000&color=F79A51&width=400&lines=Your+friendly+neighborhood+Web+developer&repeat=false&weight=400" alt="Typing SVG" /></a>
 </p>
 
-<p style="text-align:center; font-size:2rem; font-family:helvetica; font-weight:600">Work with me</p>
-<p style="text-align:center">
+<p align="center">
 <a href="https://t.me/dariuspdev"><img alt="Static Badge" src="https://img.shields.io/badge/message_me-on_telegram-blue?style=for-the-badge&logo=telegram&logoSize=48&link=https%3A%2F%2Ft.me%2Fdariuspdev"></a>
 <a href="mailto:dariuspopa.dev@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/write_me-an_email-orange?style=for-the-badge&logo=gmail&logoSize=48&link=mailto%3Adariuspopa.dev%40gmail.com"></a>
 <a href="https://dariuspopa.dev/#contact"><img alt="Static Badge" src="https://img.shields.io/badge/fill_in-my_contact_form-pink?style=for-the-badge&logo=html5&logoColor=pink&logoSize=48&link=mailto%3Adariuspopa.dev%40gmail.com"></a>
