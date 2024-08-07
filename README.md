@@ -1,8 +1,8 @@
-<p style="text-align:center; " >
+<p align="center" class="my-2" >
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bahnschrift&weight=700&size=48&pause=1000&color=F77A24&repeat=false&width=350&height=80&lines=Darius+Popa%F0%9F%A7%91%E2%80%8D%F0%9F%9A%80" alt="Typing SVG" /></a>
 </p>
 
-<p style="margin-top:-3rem; text-align:center; margin-bottom:-1rem">
+<p align="center" class="my-2">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Staatliches&size=24&pause=1000&color=F79A51&width=400&lines=Your+friendly+neighborhood+Web+developer&repeat=false&weight=400" alt="Typing SVG" /></a>
 </p>
 
