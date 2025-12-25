@@ -1,0 +1,65 @@
+{
+    "$schema": "https://aka.ms/winget-packages.schema.2.0.json",
+    "CreationDate": "2025-11-06T22:31:42.815-00:00",
+    "_comment_needs_manual_install_or_research": [
+        { "name": "Scoop" },
+        { "name": "Chocolatey" },
+        { "name": "AMD Drivers" },
+        { "name": "Guru3D Rivatuner" },
+        { "name": "Wallpaper Engine" },
+        { "name": "VBCable" },
+        { "name": "VST Host", "note": "still looking for a reliable one" },
+        { "name": "RevoUninstaller Pro", "note": "don't have a license yet" }
+    ],
+    "Sources": [
+        {
+            "Packages": [
+                { "PackageIdentifier": "EclipseAdoptium.Temurin.17.JDK" },
+                { "PackageIdentifier": "EclipseAdoptium.Temurin.17.JRE" },
+                { "PackageIdentifier": "EclipseAdoptium.Temurin.21.JDK" },
+                { "PackageIdentifier": "EclipseAdoptium.Temurin.21.JRE" },
+
+                { "PackageIdentifier": "7zip.7zip" },
+                { "PackageIdentifier": "Adobe.Acrobat.Reader.64-bit" },
+                { "PackageIdentifier": "Atlassian.Sourcetree" },
+                { "PackageIdentifier": "Betterbird.Betterbird" },
+                { "PackageIdentifier": "Brave.Brave" },
+                { "PackageIdentifier": "CoreyButler.NVMforWindows" },
+                { "PackageIdentifier": "CPUID.HWMonitor" },
+                { "PackageIdentifier": "Discord.Discord" },
+                { "PackageIdentifier": "Docker.DockerDesktop" },
+                { "PackageIdentifier": "Git.Git" },
+                { "PackageIdentifier": "GitHub.cli" },
+                { "PackageIdentifier": "Google.Chrome" },
+                { "PackageIdentifier": "Microsoft.Edge" },
+                { "PackageIdentifier": "Microsoft.PowerShell" },
+                { "PackageIdentifier": "Microsoft.VisualStudioCode" },
+                { "PackageIdentifier": "MiniTool.PartitionWizard.Free" },
+                { "PackageIdentifier": "MOTU.MSeries" },
+                { "PackageIdentifier": "Mozilla.Firefox" },
+                { "PackageIdentifier": "Neovim.Neovim" },
+                { "PackageIdentifier": "Nilesoft.Shell" },
+                { "PackageIdentifier": "Notion.Notion" },
+                { "PackageIdentifier": "OBSProject.OBSStudio" },
+                { "PackageIdentifier": "PrismLauncher.PrismLauncher" },
+                { "PackageIdentifier": "Proton.ProtonMail" },
+                { "PackageIdentifier": "Proton.ProtonPass" },
+                { "PackageIdentifier": "Proton.ProtonVPN" },
+                { "PackageIdentifier": "Qalculate.Qalculate" },
+                { "PackageIdentifier": "TorProject.TorBrowser" },
+                { "PackageIdentifier": "Transmission.Transmission" },
+                { "PackageIdentifier": "Valve.Steam" },
+                { "PackageIdentifier": "Valve.SteamCMD" },
+                { "PackageIdentifier": "VideoLAN.VLC" },
+                { "PackageIdentifier": "WinSCP.WinSCP" },
+                { "PackageIdentifier": "rocksdanister.LivelyWallpaper" }
+            ],
+            "SourceDetails": {
+                "Argument": "https://cdn.winget.microsoft.com/cache",
+                "Identifier": "Microsoft.Winget.Source_8wekyb3d8bbwe",
+                "Name": "winget",
+                "Type": "Microsoft.PreIndexed.Package"
+            }
+        }
+    ]
+}
